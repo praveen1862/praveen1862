@@ -1,11 +1,3 @@
-### Hi there 👋
+In this project you have the preview of an online mobile shopping 
 
-<!--
-**praveen1862/praveen1862** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning AWS Essential
-- 🤔 I’m looking for help with to learn .NET
-- ⚡ Fun fact: Code and Decode your Own Thought
-
+[ABC Mobiles - India's Biggest Mobile Shopping.pdf](https://github.com/praveen1862/praveen1862/files/10361440/ABC.Mobiles.-.India.s.Biggest.Mobile.Shopping.pdf)
